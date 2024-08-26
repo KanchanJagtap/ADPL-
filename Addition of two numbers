@@ -6,6 +6,6 @@ cout<<"enter first number"<<endl;
 cin>>a;
 cout<<"enter second number"<<endl;
 cin>>b;
-cout<<"sum of (a+b)="<<(a+b)<<endl;
+cout<<"sum of (a-b)="<<(a-b)<<endl;
 return 0;
 }
